@@ -25,5 +25,7 @@
   },
   "simple-git-hooks": {
     "pre-commit": "yarn hook:pre-commit"
-  }
+  },
+  "repository": "https://github.com/GodHexagon/html-stations",
+  "author": "GodHexagon <god.hexagon.bifry@gmail.com>"
 }
