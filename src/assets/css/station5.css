@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    margin: 0;
+    background-color: #c4c4c4;
+}
+
+header{
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.card{
+    background-color: #FFF;
+    width: 308px;
+    height: auto;
+    padding: 10px;
+    margin: 30px;
+}
+img{
+    width: 288px;
+    height: 182px;
+    margin-bottom: 10px;
+}
+p{
+    margin: 0;
+}
+.card__title{
+    color: #282828;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.card__description{
+    color: #282828;
+    font-size: 12px;
+}
+
+footer{
+    height: 50px;
+    background-color: #ffffff;
+}
